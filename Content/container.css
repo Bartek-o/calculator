@@ -1,0 +1,32 @@
+#calculator {
+	border: 1px solid black; 
+	border-radius: 7px;
+	background-color: rgb(167, 237, 226);
+	padding: 15px;
+	width: 446px;
+	margin: 150px auto;
+}
+#result_field {
+	padding-bottom: 10px;
+	width: 414px;
+}
+#result_field > input {
+	width: 100%;
+	text-align: right;
+	font-size: 50px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+.buttons_container {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.buttons_container > input {
+	width: 100px;
+	height: 100px;
+	font-size: 50px;
+}
+#box {
+	margin: auto;
+	width: 480px;
+}
