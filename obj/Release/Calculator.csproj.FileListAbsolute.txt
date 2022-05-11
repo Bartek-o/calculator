@@ -56,3 +56,4 @@ D:\Bartek\Studia\Semestr 6\Programowanie w Internecie\Calculator WebForms\Calcul
 D:\Bartek\Studia\Semestr 6\Programowanie w Internecie\Calculator WebForms\Calculator\obj\Release\Calculator.csproj.CopyComplete
 D:\Bartek\Studia\Semestr 6\Programowanie w Internecie\Calculator WebForms\Calculator\obj\Release\Calculator.dll
 D:\Bartek\Studia\Semestr 6\Programowanie w Internecie\Calculator WebForms\Calculator\obj\Release\Calculator.pdb
+D:\Bartek\Studia\Semestr 6\Programowanie w Internecie\Calculator WebForms\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache

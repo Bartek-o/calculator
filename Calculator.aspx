@@ -18,28 +18,28 @@
 					<input runat="server" type="text" id="result" value="0" readonly="readonly"/>
 				</div>
 				<div class="buttons_container">
-					<asp:Button runat="server" type="button" class="btn btn-info btn-lg" Onclick="Operator" Text="√"/>
-					<asp:Button runat="server" type="button" class="btn btn-warning btn-lg" Onclick="ClearResultInput" Text="CE"/>
-					<asp:Button runat="server" type="button" class="btn btn-warning btn-lg" Onclick="Backspace" Text="←"/>
-					<asp:Button runat="server" type="button" class="btn btn-info btn-lg" Onclick="Operator" Text="/"/>
+					<asp:Button runat="server" class="btn btn-info btn-lg" Onclick="Operator" Text="√"/>
+					<asp:Button runat="server" class="btn btn-warning btn-lg" Onclick="ClearResultInput" Text="CE"/>
+					<asp:Button runat="server" class="btn btn-warning btn-lg" Onclick="Backspace" Text="←"/>
+					<asp:Button runat="server" class="btn btn-info btn-lg" Onclick="Operator" Text="/"/>
 				</div>
 				<div class="buttons_container">
-					<asp:Button runat="server" type="button" class="btn btn-secondary btn-lg" Onclick="Number" Text="7"/>
-					<asp:Button runat="server" type="button" class="btn btn-secondary btn-lg" Onclick="Number" Text="8"/>
-					<asp:Button runat="server" type="button" class="btn btn-secondary btn-lg" Onclick="Number" Text="9"/>
-					<asp:Button runat="server" type="button" class="btn btn-info btn-lg" Onclick="Operator" Text="*"/>
+					<asp:Button runat="server" class="btn btn-secondary btn-lg" Onclick="Number" Text="7"/>
+					<asp:Button runat="server" class="btn btn-secondary btn-lg" Onclick="Number" Text="8"/>
+					<asp:Button runat="server" class="btn btn-secondary btn-lg" Onclick="Number" Text="9"/>
+					<asp:Button runat="server" class="btn btn-info btn-lg" Onclick="Operator" Text="*"/>
 				</div>
 				<div class="buttons_container">
-					<asp:Button runat="server" type="button" class="btn btn-secondary btn-lg" Onclick="Number" Text="4"/>
-					<asp:Button runat="server" type="button" class="btn btn-secondary btn-lg" Onclick="Number" Text="5"/>
-					<asp:Button runat="server" type="button" class="btn btn-secondary btn-lg" Onclick="Number" Text="6"/>
-					<asp:Button runat="server" type="button" class="btn btn-info btn-lg" Onclick="Operator" Text="-"/>
+					<asp:Button runat="server" class="btn btn-secondary btn-lg" Onclick="Number" Text="4"/>
+					<asp:Button runat="server" class="btn btn-secondary btn-lg" Onclick="Number" Text="5"/>
+					<asp:Button runat="server" class="btn btn-secondary btn-lg" Onclick="Number" Text="6"/>
+					<asp:Button runat="server" class="btn btn-info btn-lg" Onclick="Operator" Text="-"/>
 				</div>
 				<div class="buttons_container">
-					<asp:Button runat="server" type="button" class="btn btn-secondary btn-lg" onclick="Number" Text="1"/>
-					<asp:Button runat="server" type="button" class="btn btn-secondary btn-lg" Onclick="Number" Text="2"/>
-					<asp:Button runat="server" type="button" class="btn btn-secondary btn-lg" Onclick="Number" Text="3"/>
-					<asp:Button runat="server" type="button" class="btn btn-info btn-lg" Onclick="Operator" Text="+"/>
+					<asp:Button runat="server" class="btn btn-secondary btn-lg" onclick="Number" Text="1"/>
+					<asp:Button runat="server" class="btn btn-secondary btn-lg" Onclick="Number" Text="2"/>
+					<asp:Button runat="server" class="btn btn-secondary btn-lg" Onclick="Number" Text="3"/>
+					<asp:Button runat="server" class="btn btn-info btn-lg" Onclick="Operator" Text="+"/>
 				</div>
 				<div class="buttons_container">
 					<asp:Button runat="server" class="btn btn-danger btn-lg" OnClick="Clear" Text="C"/>
