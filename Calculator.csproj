@@ -85,6 +85,7 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.min.css.map" />
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\calculator.bartekocypa.pl - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
